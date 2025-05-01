@@ -2,7 +2,7 @@
 # Text Editor - Java Swing
 
 This is a simple text editor application developed in Java using Swing.  
-It was created as a basic assignment for the **Visual Programming** course.
+It was created as an assignment for the **Visual Programming** course.
 
 ## Features
 - New: Clear the text area.
